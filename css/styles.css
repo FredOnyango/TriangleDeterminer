@@ -1,0 +1,16 @@
+.image{
+  width:350px;
+  height: 250px;
+  text-align: center;
+  resize: both;
+}
+.form{
+  text-align: center;
+  padding: 40px;
+  background-color: #9C640C;
+  border-width: thick;
+  border: 30px;
+}
+.body{
+  background-color: #2E4053
+}

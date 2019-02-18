@@ -3,6 +3,7 @@ function determinant(){
  var a=parseInt(document.getElementById("x").value);
  var b=parseInt(document.getElementById("y").value);
  var c=parseInt(document.getElementById("z").value);
+ var tringleArray=[a,b,c]
  if (a+b<=c || a+c<=b || b+c<=a){
    alert("Cannot form a Triangle");
    }
